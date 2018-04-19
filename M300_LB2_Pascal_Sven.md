@@ -1,6 +1,6 @@
 # M300_LB2
 ## Service Beschreibung:
-Wordpress installation mit Docker.
+Wordpress installation mit Docker. Den Container haben wir mit dem Befehl docker-compose gestartet
 ## Installation (was passiert):
 Über das Vagrantfile wird die Virtuelle Maschine installiert. In der Vagrant shell wird das Skript "script.sh" ausgeführt.
 
